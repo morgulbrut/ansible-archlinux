@@ -3,7 +3,7 @@
 # ==================
 ##
 user:
-    name: aaron
+    name: tillo
     group: users
     shell: /bin/zsh
 
@@ -20,9 +20,9 @@ user:
 system:
     locale: de_CH.UTF-8
     timezone: Europe/Zurich
-    processor: amd
-    graphics_card: nvidia
-    macspoof: disabled
+    processor: tillo
+    graphics_card: tillo
+    macspoof: enable
 
 ##
 # Bootloader configuration
